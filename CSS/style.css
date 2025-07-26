@@ -15,13 +15,13 @@
 }
 
 [data-theme="dark"] {
-  --bg-color: #0e29ac;
+  --bg-color: #black;
   --text-color: #f0f0f0;
-  --nav-bg: #0e29ac;
+  --nav-bg: #black;
   --nav-color: #e0e0e0;
-  --section-bg: #0e29ac;
+  --section-bg: #black;
   --accent-color: #008c9e;
-  --footer-bg: #0e29ac;
+  --footer-bg: #black;
 }
 
 body {
